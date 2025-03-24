@@ -1,0 +1,12 @@
+DROP TABLE IF EXISTS Ilosc_zuzytych_czesci;
+DROP TABLE IF EXISTS Czesci_samochodowe;
+DROP TABLE IF EXISTS Dostawcy_czesci;
+DROP TABLE IF EXISTS Naprawy;
+DROP TABLE IF EXISTS Przeglady;
+DROP TABLE IF EXISTS Zmiany;
+DROP TABLE IF EXISTS Urlopy;
+DROP TABLE IF EXISTS Rejestr_przyjec_i_odbiorow;
+DROP TABLE IF EXISTS Mechanicy;
+DROP TABLE IF EXISTS Samochody;
+DROP TABLE IF EXISTS Klienci;
+DROP VIEW ZmianyMechanikow;
